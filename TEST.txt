@@ -1,1 +1,2 @@
 this is an example text file
+X has changed this file
